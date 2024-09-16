@@ -11,5 +11,5 @@ void main(){
 
 // Funktionsdefinition Addieren
 float add(int a, int b){
-	return a/b;
+	return a+b;
 }
